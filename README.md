@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers and smart devices
 - 🌱 I’m currently learning Native Android Development
 - 💞️ I’m looking to collaborate on AR Projects Using Sceneform/ViroCore
-- 📫 How to reach me -> amalalbert238@gmail.com
+
 
 <!---
 amalalbert/amalalbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
